@@ -10,11 +10,11 @@
     </header>
     <section>
         <h2>🎓 Educação</h2>
-        <p><strong>Cursando:</strong> Informática para Negócios - FATEC</p>
+        <p><strong>Graduação:</strong> Informática para Negócios - FATEC / Dez - 2023</p>
     </section>
     <section>
-        <h2>👾 Atividades</h2>
-        <p> Ativa na comunidade <a href="https://www.dio.me/users/millaqueok" target="_blank">DIO</a>.</p>
+        <h2>📊 Cursos</h2>
+        <p> Cursando Data Science na intistuição Coderhouse.</p>
     </section>
     <section>
         <h2>💻 Interesses</h2>
@@ -28,7 +28,7 @@
         <p>Você pode conhecer mais sobre minha trajetória e experiência profissional no <a href="https://www.linkedin.com/in/kalolayna-millaqueo-15b1ba204" target="_blank">LinkedIn</a>. Adoraria conectar-me com pessoas interessadas em tecnologia, análise de dados e inovação.</p>
     </section>
     <footer>
-        <p>Me acompanhe e faça parte da minha jornada! 😄📈 #DataEnthusiast 🐍📊 </p>
+        <p>Me acompanhe e faça parte da minha jornada! 😄📈 #DataEnthusiast 🐍 </p>
     </footer>
 </body>
 </html>
