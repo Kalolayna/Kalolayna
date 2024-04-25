@@ -14,7 +14,7 @@
     </section>
     <section>
         <h2>📊 Cursos</h2>
-        <p> Cursando Data Science na intistuição Coderhouse.</p>
+        <p> Cursando Data Science na instituição Coderhouse.</p>
     </section>
     <section>
         <h2>💻 Interesses</h2>
