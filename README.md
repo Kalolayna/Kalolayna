@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8A2C8&width=450&lines=Olá,+bem+-+vindo(a)!;Sou+a+Kalolayna)](https://git.io/typing-svg)
 
-🎓 Formada em informática para Negócios pela FATEC.
+🎓 Formada em Informática para Negócios pela FATEC.
 
 📚 Cursando Pós em Engenharia de Software na Descomplica.
 
