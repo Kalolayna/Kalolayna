@@ -6,7 +6,7 @@
 
 👩‍💻 Sou totalmente apaixonada por programação e dados.
 
-💜 Em constante aprendizado e apaixonada por tecnologia, estou sempre em busca de novos desafios e oportunidades de crescimento.
+💜 Em constante aprendizado e apaixonada pela tecnologia, estou sempre em busca de novos desafios e oportunidades de crescimento.
 
 <br>
 
